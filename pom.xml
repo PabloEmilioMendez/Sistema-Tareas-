@@ -50,6 +50,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.openjfx</groupId>
+			<artifactId>javafx-fxml</artifactId>
+			<version>17.0.12</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
